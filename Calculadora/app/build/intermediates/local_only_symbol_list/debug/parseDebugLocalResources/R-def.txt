@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+id BtnDivide
+id BtnMultiplica
+id BtnResta
+id BtnSuma
+id main
+id txtResultado
+id txtnumero1
+id txtnumero2
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string calculadora_basica
+string carculadora_basica
+style Base.Theme.Calculadora
+style Theme.Calculadora
+xml backup_rules
+xml data_extraction_rules
